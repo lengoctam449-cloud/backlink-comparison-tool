@@ -42,11 +42,11 @@ A modern SEO toolkit to compare backlink profiles across multiple competitors, r
 
 | Feature | Description |
 |----------|--------------|
-| 🔗 Multi-domain comparison | Compare backlink data between multiple competitors |
-| 📊 Domain overlap detection | Visualize common and unique referring domains |
-| 🧠 Link opportunity finder | Detect backlinks your competitors have but you don’t |
-| ⚙️ API & CSV support | Import data from Ahrefs, SEMrush, Moz, or your own CSVs |
-| 🧩 Export & reports | Generate ready-to-use backlink comparison reports |
+|  Multi-domain comparison | Compare backlink data between multiple competitors |
+|  Domain overlap detection | Visualize common and unique referring domains |
+|  Link opportunity finder | Detect backlinks your competitors have but you don’t |
+|  API & CSV support | Import data from Ahrefs, SEMrush, Moz, or your own CSVs |
+|  Export & reports | Generate ready-to-use backlink comparison reports |
 
 ---
 
